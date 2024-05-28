@@ -1,4 +1,4 @@
-Welcome to Flic's GitHub Page!
+# Welcome to Flic's GitHub Page!
 
 Are you looking to integrate Flic 2 into your solution, start here:
 https://github.com/50ButtonsEach/flic2-documentation
